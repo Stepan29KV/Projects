@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stepan/Projects/example.h
+
+/home/stepan/Projects/hello_world.cpp
+example.h
+/home/stepan/Projects/example.h
+todo_move_me_out.h
+/home/stepan/Projects/todo_move_me_out.h
+iostream
+-
+
+/home/stepan/Projects/todo_move_me_out.cpp
+iostream
+-
+todo_move_me_out.h
+/home/stepan/Projects/todo_move_me_out.h
+
+/home/stepan/Projects/todo_move_me_out.h
+
