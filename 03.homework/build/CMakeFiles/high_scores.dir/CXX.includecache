@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stepan/Projects/03.homework/check_value.cpp
+iostream
+-
+high_scores.h
+/home/stepan/Projects/03.homework/high_scores.h
+
+/home/stepan/Projects/03.homework/high_scores.h
+

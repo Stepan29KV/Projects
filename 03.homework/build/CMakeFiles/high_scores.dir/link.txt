@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/high_scores.dir/high_scores.cpp.o CMakeFiles/high_scores.dir/check_value.cpp.o CMakeFiles/high_scores.dir/random_value.cpp.o  -o high_scores 
