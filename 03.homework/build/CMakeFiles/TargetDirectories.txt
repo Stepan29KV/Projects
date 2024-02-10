@@ -1,3 +1,0 @@
-/home/stepan/Projects/03.homework/build/CMakeFiles/rebuild_cache.dir
-/home/stepan/Projects/03.homework/build/CMakeFiles/edit_cache.dir
-/home/stepan/Projects/03.homework/build/CMakeFiles/high_scores.dir
