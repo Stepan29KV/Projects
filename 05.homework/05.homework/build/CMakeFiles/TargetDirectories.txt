@@ -1,0 +1,5 @@
+/home/stepan/Projects/05.homework/05.homework/build/CMakeFiles/rebuild_cache.dir
+/home/stepan/Projects/05.homework/05.homework/build/CMakeFiles/edit_cache.dir
+/home/stepan/Projects/05.homework/05.homework/build/CMakeFiles/statistics.dir
+/home/stepan/Projects/05.homework/05.homework/build/CMakeFiles/chrono_example.dir
+/home/stepan/Projects/05.homework/05.homework/build/CMakeFiles/random_shuffle.dir

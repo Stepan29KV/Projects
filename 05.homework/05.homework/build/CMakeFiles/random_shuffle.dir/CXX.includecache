@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stepan/Projects/05.homework/05.homework/random_shuffle.cpp
+iostream
+-
+algorithm
+-
+chrono
+-
+random
+-
+vector
+-
+
