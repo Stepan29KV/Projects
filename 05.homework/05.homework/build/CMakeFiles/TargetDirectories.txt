@@ -1,3 +1,0 @@
-/home/stepan/Projects/05.homework/05.homework/build/CMakeFiles/rebuild_cache.dir
-/home/stepan/Projects/05.homework/05.homework/build/CMakeFiles/edit_cache.dir
-/home/stepan/Projects/05.homework/05.homework/build/CMakeFiles/statistics.dir

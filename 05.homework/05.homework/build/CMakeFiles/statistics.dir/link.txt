@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/statistics.dir/statistics.cpp.o CMakeFiles/statistics.dir/Min.cpp.o CMakeFiles/statistics.dir/Max.cpp.o CMakeFiles/statistics.dir/Mean.cpp.o CMakeFiles/statistics.dir/Std.cpp.o  -o statistics 
