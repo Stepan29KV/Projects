@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/stepan/Projects/08.homework/main.cpp
+algorithm
+-
+cctype
+-
+cstdlib
+-
+fstream
+-
+iomanip
+-
+iostream
+-
+iterator
+-
+map
+-
+vector
+-
+chrono
+-
+mutex
+-
+future
+-
+

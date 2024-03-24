@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/topk_words.dir/main.cpp.o  -o topk_words  -lpthread 
